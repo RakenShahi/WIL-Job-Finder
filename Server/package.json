@@ -1,0 +1,29 @@
+{
+  "name": "livecode1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodemon index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laxman Khanal, Bishal Budhathoki, Raken Shahi, Niraj Prasad Timila",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "body-parser": "^1.19.0",
+    "buffer": "^6.0.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "git": "^0.1.5",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21",
+    "mongodb": "^3.6.5",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7",
+    "uuid": "^8.3.2"
+  }
+}
