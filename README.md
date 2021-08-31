@@ -1,7 +1,7 @@
 # WIL-Job-Finder
 
 # Introduction
-Will Job Finder is a responsive web-based application which help job seeker to search and apply for the job.  End user being Student and Employer, they both can have their own profile created and search for a job and recruit an individual for the required job, respectively. Basically, user can search job based on four categories: Software Development, Network, Business Analysis and Project Management. 
+WIL Job Finder is a responsive web-based application which help job seeker to search and apply for the job.  End user being Student and Employer, they both can have their own profile created and search for a job and recruit an individual for the required job, respectively. Basically, user can search job based on four categories: Software Development, Network, Business Analysis and Project Management. 
 
 # Tools Used
 React JS, Node JS, MySQL, Heroku, Google Cloud
